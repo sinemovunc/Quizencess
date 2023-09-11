@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a02a91241f3a134d92430aa914a229d, type: 3}
+  m_Name: PlayerDataBAse
+  m_EditorClassIdentifier: 
+  playerShop:
+  - playerSprite: {fileID: 21300000, guid: 6d9ee1ec519b5a141a65905983fb43de, type: 3}
+    price: 0
+    colliderOffset: {x: -0.3, y: -3.5}
+    colliderSize: {x: 0.3, y: 0.05}
+    sagHareketHizi: 2.48
+    solHareketHizi: 2.49
+  - playerSprite: {fileID: 21300000, guid: 7ab3bf73cdd89e64896015f7b47b484a, type: 3}
+    price: 100
+    colliderOffset: {x: 0, y: -3.9}
+    colliderSize: {x: 0.7, y: 0.1}
+    sagHareketHizi: 2.53
+    solHareketHizi: 2.54
+  - playerSprite: {fileID: 21300000, guid: d91ee667bb9503f4eabc02a5373e0e98, type: 3}
+    price: 200
+    colliderOffset: {x: -0.12, y: -3.41}
+    colliderSize: {x: 0.45, y: 0.2}
+    sagHareketHizi: 2.53
+    solHareketHizi: 2.55
+  - playerSprite: {fileID: 21300000, guid: 4fb26e0731709114bae2e82803e028a2, type: 3}
+    price: 300
+    colliderOffset: {x: 0, y: -3.41}
+    colliderSize: {x: 0.19, y: 0.06}
+    sagHareketHizi: 2.435
+    solHareketHizi: 2.45
+  - playerSprite: {fileID: 21300000, guid: 9db7460318d4f8749a1f206fe27d03be, type: 3}
+    price: 400
+    colliderOffset: {x: 0, y: -3.65}
+    colliderSize: {x: 0.8, y: 0.11}
+    sagHareketHizi: 2.4499
+    solHareketHizi: 2.46
+  - playerSprite: {fileID: 21300000, guid: d05518e400f847849bf1a87c590f496f, type: 3}
+    price: 500
+    colliderOffset: {x: 0.06, y: -3.7}
+    colliderSize: {x: 0.09, y: 0.07}
+    sagHareketHizi: 2.435
+    solHareketHizi: 2.45666
+  - playerSprite: {fileID: 21300000, guid: a1eb7b3845982a24da71ff2824e04648, type: 3}
+    price: 600
+    colliderOffset: {x: 0, y: -3.4}
+    colliderSize: {x: 0.3, y: 0.1}
+    sagHareketHizi: 2.45
+    solHareketHizi: 2.4522
+  - playerSprite: {fileID: 21300000, guid: 1f34db2f6093de44aa2cf950183e8b07, type: 3}
+    price: 700
+    colliderOffset: {x: 0, y: -3.7}
+    colliderSize: {x: 0.27, y: 0.12}
+    sagHareketHizi: 2.5
+    solHareketHizi: 2.5
+  - playerSprite: {fileID: 21300000, guid: 3696436bea9f902409719650b5c2f141, type: 3}
+    price: 800
+    colliderOffset: {x: 0, y: -3.7}
+    colliderSize: {x: 0.2, y: 0.13}
+    sagHareketHizi: 2.5
+    solHareketHizi: 2.52
+  - playerSprite: {fileID: 21300000, guid: 529a45737284a45449540168e07aca3f, type: 3}
+    price: 900
+    colliderOffset: {x: 0, y: -3.45}
+    colliderSize: {x: 0.15, y: 0.09}
+    sagHareketHizi: 2.58
+    solHareketHizi: 2.58
